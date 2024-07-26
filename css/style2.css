@@ -1,0 +1,32 @@
+ul {
+    list-style-type:none;
+    justify-content: space-around;
+   
+}
+
+p {
+    width: 500px;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 80px;
+    
+}
+
+img {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    background-color: #e3ece7;
+}
+ 
+h1 {
+    text-align: center;
+    margin-top: 60px;
+}

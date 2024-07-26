@@ -95,12 +95,9 @@ body, html {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    display: flex;
-}
-
-.navigation li {
-    margin-left: 30px; /* Increased space between menu items */
-    position: relative; /* Position relative for pseudo-element */
+    display: flex ;
+    gap: 32px;
+    align-items: center;
 }
 
 .navigation a {

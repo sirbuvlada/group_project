@@ -47,6 +47,7 @@ h1 {
 	background: #BEC6A0;
     border-radius: 40px;
     overflow: hidden;
+   
 }
 
 p {
@@ -58,5 +59,7 @@ h4 {
 }
 
 span {
-  content: "\2022"
+  content: "\2022";
+  font-size: 20px;
+  font-weight: bold;
 }

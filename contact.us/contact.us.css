@@ -76,6 +76,11 @@ textarea {
 .checkbox-group input[type="checkbox"] {
     margin-right: 10px;
 }
+
+div {
+    margin-bottom: 12px;
+  }
+  
 /* Style for the submit button */
 .submit-button {
     padding: 10px 20px;
